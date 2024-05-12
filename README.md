@@ -1,10 +1,10 @@
 # University Database Project: Reverse Engineered from booking.com
 
 ## Introduction
-This repository contains the SQL backup of our university database project. The structure and sample data of the database are reverse engineered from the booking.com website.
+This repository contains the SQL backup of my database project. The structure and sample data of the database are reverse engineered from the booking.com website.
 
 ## Database Backup
-The SQL backup file (`booking_com.sql`) contains both the schema and sample data for the database. It's the last backup of the project and includes pre-populated tables with sample data.
+The SQL backup file (`booking_com.sql`) contains both the schema and sample data for the database. It is the last backup of the project and includes pre-populated tables with sample data.
 
 ## Usage
 To use the SQL backup:
